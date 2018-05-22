@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraFilter</string>
+    <string name="tirar_foto">Tirar Foto!</string>
+    <string name="inverter">Inverter</string>
+    <string name="p_b">P/B</string>
+    <string name="original">Original</string>
+</resources>
